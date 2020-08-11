@@ -1,6 +1,6 @@
 # _**现代信息检索大作业**_
 ###环境
-开发环境：Mac OS 软件版本：Java JRE 1.8.0、Python 3.7、Terrier5.0
+开发环境：MAC OS 软件版本：Java JRE 1.8.0、Python 3.7、Terrier5.0
 
 ### 数据预处理成.xml格式
 cd modules/xml 下，执行脚本：
