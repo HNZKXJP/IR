@@ -32,3 +32,5 @@ cd modules/xml 下，执行脚本：
 查看索引信息
 
 `bin/terrier indexstats`
+
+aa
